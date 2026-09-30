@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleName</key><string>Perifit Edge</string>
+    <key>CFBundleDisplayName</key><string>Perifit Edge</string>
+    <key>CFBundleIdentifier</key><string>local.perifit-edge.app</string>
+    <key>CFBundleExecutable</key><string>PerifitEdge</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0.0</string>
+<key>CFBundleVersion</key><string>100</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSBluetoothAlwaysUsageDescription</key><string>Read the selected Perifit's pressure notifications for local biofeedback control.</string>
+    <key>NSLocalNetworkUsageDescription</key><string>Accept local XToys vibration controls.</string>
+    <key>NSAppTransportSecurity</key><dict><key>NSAllowsLocalNetworking</key><true/></dict>
+</dict></plist>

@@ -1,0 +1,24 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+*.xcuserstate
+__pycache__/
+.venv-ml/
+
+# Private runtime data and credentials; publish only the source-release allowlist.
+.serena/
+.env
+.env.*
+*.app/
+*.dmg
+*.pkg
+*.hex
+*.elf
+*.o
+*.log
+*.zip
+session-*.json
+preferences.json
+profiles.json
+last-controller-fault.json
